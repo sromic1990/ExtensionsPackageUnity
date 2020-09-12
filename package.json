@@ -16,6 +16,6 @@
       ],
       "dependencies":
       {
-        "com.sourav.debug": "https://github.com/sromic1990/DebugPackage.git#upm"
+        "com.sourav.debug": "1.0.5"
       }
 }

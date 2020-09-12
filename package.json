@@ -13,9 +13,5 @@
         "Unity",
         "Sourav",
         "LOG"
-      ],
-      "dependencies":
-      {
-        "com.sourav.debug": "1.0.5"
-      }
+      ]
 }

@@ -1,0 +1,21 @@
+{
+    "name": "com.sourav.extensions",
+    "displayName": "Sourav Extensions Package",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "Various extensions for quick tasks and improvement in productivity in Unity",
+    "author": {
+        "name": "Sourav Chatterjee",
+        "email": "sromic@gmail.com"
+    },
+    "keywords": [
+        "Extensions",
+        "Unity",
+        "Sourav",
+        "LOG"
+      ],
+      "dependencies":
+      {
+        "com.sourav.debug": "https://github.com/sromic1990/DebugPackage.git#upm"
+      }
+}
